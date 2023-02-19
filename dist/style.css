@@ -3,7 +3,9 @@
 
 
  .wrapper {
-     box-sizing: border-box;
+   text-shadow: none;
+   color: black;
+   box-sizing: border-box;
    font-family: "Poppins", sans-serif;
    position: fixed;
    bottom: 20px;
@@ -33,6 +35,9 @@
    margin: 0.5rem;
    font-size: 2rem;
    line-height: 2.2rem;
+   color: black;
+   text-align: left;
+   text-shadow: none;
  }
  .wrapper .data {
    margin-top: 16px;
