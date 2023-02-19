@@ -1,6 +1,6 @@
 const headPart = document.getElementsByTagName('head')[0];
 headPart.innerHTML += 
-`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dev3058/cookie-consent@5001ac622795523ba100d69a60ef4da212508fc0/dist/style.css">`;
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dev3058/cookie-consent@905a230a6c85b8b9e122fb6f87cc56dc405cfb1d/dist/style.css">`;
 
 const cookiConsent = () => {
 const bodyElement = document.getElementsByTagName('body')[0];
