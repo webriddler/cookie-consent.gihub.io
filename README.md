@@ -5,7 +5,7 @@
 <p>Paste the following <code><script></code> tag in the <code>body</code> section of your html template.</p>
 
 ```js
-<script async type="text/javascript" src="https://cdn.jsdelivr.net/gh/dev3058/cookie-consent@[latest-version]"></script>
+<script async type="text/javascript" src="https://cdn.jsdelivr.net/gh/dev3058/cookie-consent@[latest-version]/dist/script.js"></script>
 ```
 <p><b>Note</b>: Don't forget to replace `[latest-version]` with current commit hash.
 
